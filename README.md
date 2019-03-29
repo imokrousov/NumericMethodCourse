@@ -4,6 +4,8 @@
 
 Ссылка на [RawData](https://drive.google.com/drive/folders/1x6CdNmE4nHhAlaZZOuCO45nhvaHW8XaA?usp=sharing). По ней находятся фотографии лекционного матриала курса. 
 
+[Таблица] (https://docs.google.com/spreadsheets/d/118zYh-fRw5xs9aVADcWwgV-BTm5ST8T0FQqGHRw2OeE/edit?usp=sharing)
+
 Разбиение на разделы:
 1. 1719-1722 = 3
 2. 1722-1726 = 4
